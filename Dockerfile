@@ -1,7 +1,7 @@
 FROM vllm/vllm-openai:latest
 
 # Set environment variables
-ENV MODEL_NAME="Qwen/Qwen2.5-3B-Instruct"
+ENV MODEL_NAME="google/gemma-2-27b-it"
 ENV CUDA_VISIBLE_DEVICES="0"
 
 # Install any additional dependencies if needed
@@ -17,7 +17,11 @@ ENTRYPOINT ["sh", "-c", \
     --host 0.0.0.0 \
     --port 8000 \
     --tensor-parallel-size 1 \
-    --max-model-len 4096 \
+    --quantization bitsandbytes \
+    --load-format bitsandbytes \
+    --max-model-len 8192 \
     --gpu-memory-utilization 0.90 \
-    --max-num-seqs 32 \
+    --max-num-seqs 8 \
+    --enable-chunked-prefill \
+    --max-num-batched-tokens 8192 \
     --trust-remote-code"]
