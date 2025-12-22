@@ -12,14 +12,28 @@ client = OpenAI(
     base_url="http://localhost:8000/v1"
 )
 
+prompt = """
+Formulate a construction plan to build a hospital.
+"""
+
 # Simple chat request
+# Note: Increased max_tokens from 200 to 2000 for longer responses
+# Your prompt is ~2000 tokens, this allows for substantial output
 response = client.chat.completions.create(
-    model="Qwen/Qwen2.5-3B-Instruct",
+    model="Qwen/Qwen3-4B-Instruct-2507",
+    # model="meta-llama/Llama-3.1-8B-Instruct",
     messages=[
-        {"role": "user", "content": "Hello! Tell me a joke."}
+        {"role": "user", "content": prompt}
     ],
-    max_tokens=200,
+    max_tokens=2000,  # Increased for longer outputs with your long prompts
+    temperature=0.7,
+    stream=True,  # Enable streaming for faster perceived response
 )
 
-print(response.choices[0].message.content)
+# Stream the response for better UX
+for chunk in response:
+    if hasattr(chunk, 'choices') and chunk.choices[0].delta.content:
+        print(chunk.choices[0].delta.content, end='', flush=True)
+print()  # Final newline
+
 
