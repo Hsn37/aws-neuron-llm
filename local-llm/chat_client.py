@@ -3,7 +3,7 @@ from openai import OpenAI
 # Create client pointing to local vLLM server
 client = OpenAI(
     api_key="EMPTY",
-    base_url="https://d1bef824060e.ngrok-free.app/v1"
+    base_url="https://e0b2fdd67be4.ngrok-free.app/v1"
 )
 
 prompt_template = """

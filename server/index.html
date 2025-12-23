@@ -358,7 +358,8 @@
 
     <script>
         // Global backend URL configuration
-        const BACKEND = 'http://localhost:8001';
+        // const BACKEND = 'http://localhost:8001';
+        const BACKEND = 'https://e09e8cc8e063.ngrok-free.app';
         
         let templates = {};
         let transcripts = {};
@@ -366,7 +367,11 @@
         // Load templates on page load
         async function loadTemplates() {
             try {
-                const response = await fetch(`${BACKEND}/api/templates`);
+                const response = await fetch(`${BACKEND}/api/templates`, {
+                    headers: {
+                        'ngrok-skip-browser-warning': 'true'
+                    }
+                });
                 templates = await response.json();
                 
                 const select = document.getElementById('templateSelect');
@@ -384,7 +389,11 @@
         // Load test transcripts on page load
         async function loadTranscripts() {
             try {
-                const response = await fetch(`${BACKEND}/api/transcripts`);
+                const response = await fetch(`${BACKEND}/api/transcripts`, {
+                    headers: {
+                        'ngrok-skip-browser-warning': 'true'
+                    }
+                });
                 transcripts = await response.json();
                 
                 const select = document.getElementById('transcriptSelect');
@@ -461,6 +470,7 @@
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
+                        'ngrok-skip-browser-warning': 'true'
                     },
                     body: JSON.stringify({
                         template: template,
