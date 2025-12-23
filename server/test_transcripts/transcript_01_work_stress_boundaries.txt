@@ -1,0 +1,93 @@
+THERAPIST–PATIENT TRANSCRIPT (Sample 1)
+Session Theme: Work stress, burnout, boundaries, values
+Format: Plain text dialogue (approx. 20 minutes)
+
+Therapist: Hi, it’s good to see you. Before we jump in, how are you arriving today—on a scale from 0 to 10, where 10 is “I’m overwhelmed”?
+Client: Honestly… like an 8.
+Therapist: An 8. That’s a lot to carry. What’s pushing it up to an 8 this week?
+Client: Work. It’s just nonstop. I’m on calls all day, then I’m still answering messages at night. I feel like I can’t breathe.
+Therapist: So the day doesn’t really end—your work keeps following you into the evening.
+Client: Exactly. And I keep telling myself, “Just get through this sprint.” But then there’s another sprint. And another.
+Therapist: That sounds exhausting, like you’ve been in “just survive” mode for a while.
+Client: Yeah. And I’m starting to get irritable with everyone. Even my spouse. I hate that version of me.
+Therapist: You’re noticing the stress spilling into relationships, and you don’t like how it feels.
+Client: I feel guilty, too. My spouse will ask a simple question and I snap. Then I apologize. It’s like I’m always on edge.
+Therapist: When you say “on edge,” where do you notice it in your body?
+Client: Tight chest. Jaw clenched. Like my shoulders are glued to my ears.
+Therapist: Let’s slow down for about ten seconds and check in with that. If it’s okay with you, take one breath in… and out. No need to change anything—just notice. What do you notice after that one breath?
+Client: Slightly… less tight. Still tense, but not as much.
+Therapist: Good noticing. Even small shifts matter. When did you start seeing this pattern—work bleeding into everything?
+Client: Maybe six months ago? At first I thought it was temporary. But I’ve been “temporarily” overwhelmed for half a year.
+Therapist: Temporary became your new normal.
+Client: Yeah. And I’m afraid if I don’t respond instantly, people will think I’m not reliable. I’ve built a reputation.
+Therapist: Your reputation is important to you—being seen as reliable.
+Client: It’s everything. I worked hard for it.
+Therapist: What do you think it would mean about you if you didn’t reply at night?
+Client: That I’m lazy. Or that I can’t handle it. Or… I’m replaceable.
+Therapist: That’s a heavy conclusion: “If I’m not always available, I’m replaceable.”
+Client: It feels true.
+Therapist: Can we test it gently? What evidence supports that belief—and what evidence might not?
+Client: Evidence for it… people praise the ones who are always online. Evidence against… I mean, my manager has boundaries. They don’t reply at night.
+Therapist: Interesting. So your manager models a different pattern.
+Client: Yeah, but they’re higher up. They can do that.
+Therapist: So there’s a rule in your mind: “Boundaries are earned.” If you’re not at a certain level, you have to be available 24/7.
+Client: Pretty much.
+Therapist: Where do you think you learned that rule?
+Client: Family, honestly. If you weren’t “useful,” you were criticized. Praise came when you overdelivered.
+Therapist: That makes sense. Overdelivering became a way to feel safe or valued.
+Client: Yeah. I guess I’m still chasing that feeling.
+Therapist: If the goal is feeling valued, what’s the cost of chasing it this way?
+Client: I’m tired all the time. Sleep is messed up. I’ve stopped going to the gym. My mind feels… foggy.
+Therapist: Sleep, exercise, clarity—those have all been impacted. Anything else?
+Client: I don’t feel like myself. Like I’m just a worker. Not a person.
+Therapist: That sounds like a loss of identity beyond work.
+Client: Yeah.
+Therapist: If we zoom out: what matters to you besides being reliable at work? What values feel important?
+Client: My family. Health. Being calm. Maybe… creativity? I used to draw.
+Therapist: Family, health, calm, creativity. When those values are present, how do you feel?
+Client: More grounded. Like I’m living, not just functioning.
+Therapist: And right now, work is crowding those values out.
+Client: Exactly.
+Therapist: Let’s look at something practical. If you had one boundary you could try this week—one small experiment—what would it be?
+Client: I could stop checking Slack after dinner.
+Therapist: Great—specific. When is dinner usually?
+Client: Around 8.
+Therapist: So “no Slack after 8.” What feelings do you predict will show up when you try that?
+Client: Anxiety. Like I’m missing something important. Also guilt.
+Therapist: Anxiety and guilt. If those feelings show up, what could you tell yourself to stay aligned with your values?
+Client: Maybe… “Rest makes me better at my job.” Or “I’m allowed to be a person.”
+Therapist: I like those. Which one feels more believable?
+Client: “Rest makes me better at my job.” The “allowed to be a person” one feels… nice, but hard.
+Therapist: That’s honest. We can start with the believable one. Another tool: make the boundary visible. For example, setting a status message or letting a teammate know you’re offline after 8. Would that help or feel risky?
+Client: Risky. But maybe helpful. If I don’t announce it, I’ll still peek.
+Therapist: So announcing it could reduce the temptation.
+Client: Yeah.
+Therapist: Let’s design a low-stakes version. How about: set a status like “Offline after 8, will respond in the morning.” No big explanation. How does that land?
+Client: That sounds doable.
+Therapist: Good. What about emergencies? Do you have a definition of what counts?
+Client: If something is on fire in production. Otherwise it can wait.
+Therapist: Perfect—clear criteria. Now, you mentioned snapping at your spouse. What would a “repair” look like this week?
+Client: I could tell them what’s going on before I get angry. Like, “I’m stressed and I need ten minutes.”
+Therapist: That’s a strong communication skill—naming your state and requesting a pause. How likely is it that you could do that, 0–10?
+Client: Maybe a 6.
+Therapist: What would make it a 7?
+Client: If I catch the tension earlier. Before I’m already annoyed.
+Therapist: So the earlier body signs are important. You mentioned jaw and shoulders. Could you use those as your “early warning system”?
+Client: Yeah. If jaw is clenched, it’s like… red flag.
+Therapist: Great. Here’s a short exercise: when you notice the jaw, you pause and do two slow exhales. Then you decide: respond, or request a break. Would you be willing to practice that this week?
+Client: I can try.
+Therapist: “Try” is good. We’re aiming for experiments, not perfection. Any concerns about trying these boundaries?
+Client: I’m worried I’ll fail and then beat myself up.
+Therapist: That’s an important pattern—self-criticism. If you slip, what would a kinder response be?
+Client: “This is hard. I’m learning.” Something like that.
+Therapist: Yes. A learning mindset. And if you slip, we collect data rather than judge. What happened? What triggered it? What helped?
+Client: Okay. I can do that.
+Therapist: Quick check: any concerns about your safety—any thoughts of harming yourself or anyone else?
+Client: No. Nothing like that.
+Therapist: Thank you for answering. Before we wrap, let’s summarize the plan: this week you’ll experiment with “no Slack after 8,” set a status message, define emergencies as production fires, and practice the jaw “early warning” with two slow exhales and a request for a break when needed. Did I capture it?
+Client: Yeah. That’s right.
+Therapist: And for homework, would it help to track it briefly—like a few notes each day?
+Client: Sure. Just like, “Did it work? How did I feel?”
+Therapist: Exactly. Two minutes a day. We’ll review next time. How are you feeling now compared to the start?
+Client: Maybe a 6. Still stressed, but it feels… clearer.
+Therapist: I’m glad there’s some clarity. We’ll keep building on it next session.

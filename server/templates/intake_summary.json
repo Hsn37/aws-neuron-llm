@@ -1,0 +1,10 @@
+{
+  "patient_name": null,
+  "dob": null,
+  "presenting_problem": "",
+  "symptoms": [],
+  "risk_flags": [],
+  "history_summary": "",
+  "goals": [],
+  "recommended_next_steps": []
+}
